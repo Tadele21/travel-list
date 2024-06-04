@@ -1,8 +1,0 @@
-
-## Controlled element and with this the chniques it is react who controls and owns the state of these input fieds 
-and no longer dom.
-
-## In order to implement the contolled element we follow three steps 
-    # create a piece of state
-    #   
-    #
